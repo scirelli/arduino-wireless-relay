@@ -8,7 +8,7 @@ Maybe I can eventually swap the Pro mini for something smaller like a ATTiny.
 
 Uses
 * Pro Mini Atmega328 5v 16m
-* NRF24L01 Wireless Transceiver
+* 2x NRF24L01 Wireless Transceiver
 * Couple of 3-5v relays
 * Raspberry Pi (any model)
 * Power outlet
